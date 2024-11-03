@@ -49,4 +49,4 @@ To set up and run this project locally, follow these steps:
 
 If you have any questions or sth, please feel free to connect with me anytime. You're always welcome.
 
-Telegram - [@devbeast5775](https://t.me/devbeast5775)
+Telegram - [@CrypMancer](https://t.me/devbeast5775)
